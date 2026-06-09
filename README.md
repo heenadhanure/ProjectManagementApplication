@@ -1,4 +1,4 @@
-# Project Tracking Application
+# Project Management Application
 A comprehensive application designed to streamline project management and enhance team productivity. This tool enables project managers and developers to monitor tasks, track progress, and collaborate efficiently.
 
 ## Features
